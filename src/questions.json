@@ -1,0 +1,77 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "De que proovedor es el slot Dog House?",
+        "respuesta_correcta": "Pragmatic",
+        "respuesta_incorrecta1": "Hacksaw",
+        "respuesta_incorrecta2": "Play N' Go",
+        "respuesta_incorrecta3": "Red Tiger",
+        "tipo": "texto y texto",
+        "categoria": "a"
+      },
+      {
+        "pregunta": "¿De que proovedor es el slot Wanted Dead or a Wild",
+        "respuesta_correcta": "Hacksaw",
+        "respuesta_incorrecta1": "Evolution",
+        "respuesta_incorrecta2": "Pragmatic",
+        "respuesta_incorrecta3": "Nolimit City",
+        "tipo": "texto y texto",
+        "categoria": "a"
+      },
+      {
+        "pregunta": "¿De que proovedor es el slot Razor Shark",
+        "respuesta_correcta": "Push Gaming",
+        "respuesta_incorrecta1": "Evolution",
+        "respuesta_incorrecta2": "Red Tiger",
+        "respuesta_incorrecta3": "Pragmatic",
+        "tipo": "texto y texto",
+        "categoria": "a"
+      },
+      {
+        "pregunta": "¿De que proovedor es el slot Book of Dead?",
+        "respuesta_correcta": "Play N' Go",
+        "respuesta_incorrecta1": "Pragmatic",
+        "respuesta_incorrecta2": "Hacksaw",
+        "respuesta_incorrecta3": "Red Tiger",
+        "tipo": "texto y texto",
+        "categoria": "a"
+      },
+      {
+        "pregunta": "¿Cuál es el número máximo de líneas de pago que ofrece el slot The Hand of Midas?",
+        "respuesta_correcta": "20",
+        "respuesta_incorrecta1": "5",
+        "respuesta_incorrecta2": "40",
+        "respuesta_incorrecta3": "10",
+        "tipo": "texto y texto",
+        "categoria": "e"
+      },
+      {
+        "pregunta": "¿Cuál es el número máximo de líneas de pago que ofrece el slot John Hunter and the Book of Tut?",
+        "respuesta_correcta": "10",
+        "respuesta_incorrecta1": "5",
+        "respuesta_incorrecta2": "20",
+        "respuesta_incorrecta3": "8",
+        "tipo": "texto y texto",
+        "categoria": "e"
+      },
+      {
+        "pregunta": "¿Cuál es el premio máximo que se puede ganar en Sweet Bonanza (jackpot/max win)?",
+        "respuesta_correcta": "21100X",
+        "respuesta_incorrecta1": "10000X",
+        "respuesta_incorrecta2": "5000X",
+        "respuesta_incorrecta3": "25500X",
+        "tipo": "texto y texto",
+        "categoria": "j"
+      },
+      {
+        "pregunta": "¿Cuál es el número máximo de líneas de pago que ofrece el slot Hand of Anubis?",
+        "respuesta_correcta": "10000X",
+        "respuesta_incorrecta1": "5000X",
+        "respuesta_incorrecta2": "20000X",
+        "respuesta_incorrecta3": "40000X",
+        "tipo": "texto y texto",
+        "categoria": "j"
+      }
+    ]
+  }
+  

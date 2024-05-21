@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/* Resto de estilos */
+
+.levels {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 150px;
+  padding: 10px;
+  background-color: #fff;
+  border-left: 1px solid #ccc;
+}
+
+.level {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+}
+
+.current-level {
+  background-color: #4caf50;
+  color: #fff;
+  font-weight: bold;
+}
